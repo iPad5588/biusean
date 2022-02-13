@@ -8,7 +8,7 @@
             "value": ""
         },
         "CADDYIndexPage": {
-            "description": "自定義部署完顯示頁面，參考：https://github.com/iPad5588/biusean/blob/main/etc/CADDYIndexPage.md",
+            "description": "自定義部署完顯示頁面链接",
             "value": ""
         },
         "CONFIGCADDY": {
